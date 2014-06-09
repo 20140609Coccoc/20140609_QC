@@ -1,4 +1,4 @@
-20140609
+20140609_abcd
  /me [text]
  /topic [text]
  /add [skypename]
