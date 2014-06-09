@@ -1,0 +1,32 @@
+[12:01:46 PM] sys: Available commands:
+ /me [text]
+ /topic [text]
+ /add [skypename]
+ /history
+ /find [text]
+ /fa or /
+ /alertson [text]
+ /alertsoff
+ /leave
+ /goadmin
+ /get creator
+ /get role
+ /whois [skypename]
+ /setrole [skypename] MASTER|HELPER|USER|LISTENER
+ /kick [skypename]
+ /kickban [skypename]
+ /get uri
+ /get guidelines
+ /get xguidelines
+ /set guidelines [text]
+ /get options
+ /set options [[+|-]flag] ..
+ /setpassword [password] [password hint]
+ /clearpassword
+ /get password_hint
+ /get banlist
+ /get allowlist
+ /set banlist [[+|-]mask] ..
+ /set allowlist [[+|-]mask] ..
+ /help
+For more help please see http://www.skype.com/go/help.chathelp
