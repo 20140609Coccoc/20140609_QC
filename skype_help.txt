@@ -1,4 +1,4 @@
-20140609_abcd
+20140609_adecd_khn
  /me [text]
  /topic [text]
  /add [skypename]
@@ -33,4 +33,4 @@ For more help please see http://www.skype.com/go/help.chathelp
 
 Nguyễn Tuấn Tú
 
-Nguyễn Tuấn Phong
+Nguyễn_Tuấn_Phong
