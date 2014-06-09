@@ -30,3 +30,5 @@
  /set allowlist [[+|-]mask] ..
  /help
 For more help please see http://www.skype.com/go/help.chathelp
+
+Nguyễn Tuấn Tú
