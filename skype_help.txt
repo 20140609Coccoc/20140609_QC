@@ -1,4 +1,4 @@
-sys: Available commands:
+
  /me [text]
  /topic [text]
  /add [skypename]
