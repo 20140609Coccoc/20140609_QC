@@ -1,4 +1,4 @@
-[12:01:46 PM] sys: Available commands:
+sys: Available commands:
  /me [text]
  /topic [text]
  /add [skypename]
